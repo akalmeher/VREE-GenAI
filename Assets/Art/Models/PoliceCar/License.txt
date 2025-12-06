@@ -1,7 +1,3 @@
-This model is free for Personal Use only (Students).
-
-Any use in commercial subject requires a Premium membership on RigModels.com
-https://rigmodels.com/premium.php
-
-Visit us for new daily models:
-https://rigmodels.com/
+version https://git-lfs.github.com/spec/v1
+oid sha256:d97e92a1d29fe3c6ebe34c5fe0ccc2a553318bea34c99579821a2f9691ebfd22
+size 219
