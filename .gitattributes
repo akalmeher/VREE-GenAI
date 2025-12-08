@@ -51,3 +51,7 @@
 *.inputactions filter=lfs diff=lfs merge=lfs -text
 *.inputactions.meta filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+*.asmdef filter=lfs diff=lfs merge=lfs -text
+*.asmdef.meta filter=lfs diff=lfs merge=lfs -text
+*.shadergraph.meta filter=lfs diff=lfs merge=lfs -text
+*.shadergraph filter=lfs diff=lfs merge=lfs -text
