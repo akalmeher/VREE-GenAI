@@ -37,3 +37,7 @@
 *.exr.meta filter=lfs diff=lfs merge=lfs -text
 *.terrainlayer filter=lfs diff=lfs merge=lfs -text
 *.terrainlayer.meta filter=lfs diff=lfs merge=lfs -text
+*.lighting filter=lfs diff=lfs merge=lfs -text
+*.lighting.meta filter=lfs diff=lfs merge=lfs -text
+*.tga.meta filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
