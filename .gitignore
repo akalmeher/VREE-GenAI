@@ -1,0 +1,34 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Unity generated
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# Builds
+Build/
+Builds/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Unity cache
+*.pidb
+*.pdb
+*.mdb
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Mac system files
+.DS_Store
