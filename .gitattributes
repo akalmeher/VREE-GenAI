@@ -46,3 +46,5 @@
 *.pdf.meta filter=lfs diff=lfs merge=lfs -text
 *.shader.meta filter=lfs diff=lfs merge=lfs -text
 *.shader filter=lfs diff=lfs merge=lfs -text
+*.physicMaterial filter=lfs diff=lfs merge=lfs -text
+*.physicMaterial.meta filter=lfs diff=lfs merge=lfs -text
